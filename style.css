@@ -7,6 +7,7 @@ h1 {
   text-align: center;
 }
 img {
+  image-orientation: auto;
 }
 a {
   padding: 10px;
