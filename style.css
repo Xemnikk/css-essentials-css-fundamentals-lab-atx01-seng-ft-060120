@@ -20,7 +20,6 @@ a {
 }
 #details {
   display: block;
-  float: left;
 }
 div {
   background-color: red;
