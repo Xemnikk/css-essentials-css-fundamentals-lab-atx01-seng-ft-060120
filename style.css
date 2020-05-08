@@ -3,3 +3,17 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  vertical-align: central;
+}
+img {
+  align-content: center;
+}
+a {
+  padding: 10px;
+  background: red;
+}
+#featured-property {
+  width: 800px;
+  align-content: center;
+}
