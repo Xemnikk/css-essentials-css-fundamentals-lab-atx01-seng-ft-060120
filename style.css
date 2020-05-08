@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 h1 {
-  vertical-align: central;
+  align-content: center;
 }
 img {
   align-content: center;
