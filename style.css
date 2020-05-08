@@ -7,9 +7,8 @@ h1 {
   text-align: center;
 }
 img {
-  padding-left: auto;
-  padding-right: auto;
-  width: 900px;
+  padding-left: inherit;
+  padding-right: inherit;
 }
 a {
   padding: 10px;
