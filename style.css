@@ -24,7 +24,7 @@ a {
 }
 div {
   background-color: red;
-  width: 1/4;
+  width: 20px;
   text-align: center;
   display: inline-block;
 }
