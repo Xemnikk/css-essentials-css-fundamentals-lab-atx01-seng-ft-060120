@@ -7,7 +7,9 @@ h1 {
   text-align: center;
 }
 img {
-  align-self: center;
+  padding-left: auto;
+  padding-right: auto;
+  width: 900px;
 }
 a {
   padding: 10px;
