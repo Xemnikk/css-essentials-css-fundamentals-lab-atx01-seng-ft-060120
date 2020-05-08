@@ -13,8 +13,8 @@ figcaption {
   text-align: center;
 }
 .img {
-  padding-left: inherit;
-  padding-right: inherit;
+  margin-left: auto;
+  margin-right: auto;
 }
 a {
   padding: 10px;
