@@ -11,9 +11,9 @@ img {
 }
 a {
   padding: 10px;
-  background: red;
+  background: gray;
 }
 #featured-property {
-  width: 800px;
-  align-content: center;
+  width: 900px;
+  text-align: center;
 }
