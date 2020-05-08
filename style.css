@@ -6,9 +6,8 @@ body {
 h1 {
   text-align: center;
 }
-figure {
-  padding-left: inherit;
-  padding-right: inherit;
+figcaption {
+text-align: center;
 }
 a {
   padding: 10px;
