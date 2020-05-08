@@ -12,6 +12,10 @@ nav {
 figcaption {
   text-align: center;
 }
+.img {
+  padding-left: inherit;
+  padding-right: inherit;
+}
 a {
   padding: 10px;
   background-color: gray;
