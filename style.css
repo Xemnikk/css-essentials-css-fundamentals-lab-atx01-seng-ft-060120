@@ -20,11 +20,11 @@ a {
 }
 #details.div {
   display: block;
-  float:left;
+  float: left;
 }
 div {
   background-color: red;
-  width: 10%;
+  width: 25%;
   text-align: center;
   display: inline-block;
 }
